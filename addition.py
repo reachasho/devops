@@ -1,5 +1,5 @@
 #!/usr/env/bin python
-a = input("enter a =")
-b = input ("enter b =")
+a = int(input("enter a ="))
+b = int(input ("enter b ="))
 sum = a+b
 print(sum)
