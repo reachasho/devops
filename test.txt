@@ -3,3 +3,8 @@ This is my first commit
 this is second commit
 
 this is third commit
+<<<<<<< HEAD
+=======
+
+this is 4th commit
+>>>>>>> add
